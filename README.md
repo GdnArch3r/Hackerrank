@@ -10,4 +10,4 @@ HACK 1 :
 
 HACK 2 :
 
-<img src="https://user-images.githubusercontent.com/58631084/70962810-6e95db80-20ac-11ea-9f07-3b5875ce0641.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/58631084/70962810-6e95db80-20ac-11ea-9f07-3b5875ce0641.png" width="90%"></img> 
