@@ -9,6 +9,5 @@ func main() {
 for scanner.Scan() {
     fmt.Println(scanner.Text())
 }
- //Enter your code here. Read input from STDIN. Print output to STDOUT
- 
+
 }
